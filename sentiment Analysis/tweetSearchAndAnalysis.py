@@ -4,10 +4,10 @@ import codecs
 from string import punctuation
 
 class tweetSearchAndAnalysis():
-    ckey = 'MEOtoDBej43KqjgGMUYWrkchA'
-    csecret = 'b93sewY8LQS6halYNfDCUkaDTJ70MCcAx8SWAJE099TizfPRHX'
-    atoken = '810873594242863105-1eZZvK6k7SXNSPpjo71lLpG37TVQZ62'
-    asecret = 'WgJFVWgouFepLwpDQKlCdb2vBy2ZnltHz83RQ692uCLKs'
+    ckey = 'MEOtoDBej43KqjiGMUYWrkchA'
+    csecret = 'b93sewY8LQS6halYNfDCUkaDTl70MCcAx8SWAJE099TizfPRHX'
+    atoken = '81087359424j863105-1eZZvK6k7SXNSPpjo71lLpG37TVQZ62'
+    asecret = 'WgJFVWgouFepLwppQKlCdb2vBy2ZnltHz83RQ692uCLKs'
 
     # OAuth Authentication
     auth = OAuthHandler(ckey, csecret)
