@@ -1,0 +1,70 @@
+Name of the celebrity: Stellan Skarsgård
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1._CR0,0,271,400_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "Good Will Hunting"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Aaron Taylor-Johnson
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1._CR76,0,1224,1805_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "Kick-Ass"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Chris Evans
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1._CR7,0,271,400_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "The Avengers"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Mary-Kate Olsen
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BNjczMTY2NTQxOV5BMl5BanBnXkFtZTgwNTk1MDcyODE@._V1._CR17,0,586,865_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "Beastly"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Ashley Olsen
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NDQ5MzI2NF5BMl5BanBnXkFtZTgwMzgwMjkyODE@._V1._CR0,0,354,522_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "New York Minute"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Kat Dennings
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNjk2NzA5Ml5BMl5BanBnXkFtZTcwNzIxMDcwOQ@@._V1._CR1,0,316,466_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "Thor"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Ally Sheedy
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0MzY0NTU3OF5BMl5BanBnXkFyZXN1bWU@._V1._CR13,0,475,700_SX40_SY59.jpg
+Profession: Actress
+Best Work:  "The Breakfast Club"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Ethan Embry
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNTI4NDUyOF5BMl5BanBnXkFtZTgwMjc3OTYzNDE@._V1._CR0,0,900,1328_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "Harold & Kumar Go to White Castle"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Kodi Smit-McPhee
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BOTE4ODU4NzY5NV5BMl5BanBnXkFtZTgwOTIwNTk5MDE@._V1._CR0,0,801,1181_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "The Road"
+Overall Sentiment on Twitter: POSITIVE
+
+
+Name of the celebrity: Malcolm McDowell
+Celebrity Image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxMjQxNzczM15BMl5BanBnXkFtZTcwMTg3MTMwNw@@._V1._CR38,0,1388,2048_SX40_SY59.jpg
+Profession: Actor
+Best Work:  "A Clockwork Orange"
+Overall Sentiment on Twitter: POSITIVE
+
+

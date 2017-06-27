@@ -1,0 +1,2 @@
+Please change the twitter access tokens and consumer keys in "tweetSearchAndAnalysis.py".
+To make one for yourself visit apps.twitter.com.
